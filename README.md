@@ -3,10 +3,12 @@
 
 ## 최근 업데이트 : 2023. 02. 03
 
-*****
-### ML
-\n
+## 실습
+> ### ML
+
 #### classification 실습 : [classification.ipynb](classification.ipynb)
-2023. 02. 02
+2023.02.02
 #### regression 실습 : [regression.ipynb](regression.ipynb)
-2023. 02. 03
+2023.02.03
+
+****
